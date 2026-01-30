@@ -317,9 +317,9 @@ If you find this project useful, please consider giving it a star ⭐
 
 ## 📧 Contact
 
-- **Email**: support@kitaabghar.in
-- **Website**: [Your deployed URL]
-- **GitHub**: [@yourusername](https://github.com/yourusername)
+- **Email**: 
+- **Website**: [https://book-store-3f2a7.web.app/]
+- **GitHub**: [@peanut]()
 
 ---
 
