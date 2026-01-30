@@ -318,7 +318,7 @@ If you find this project useful, please consider giving it a star ⭐
 ## 📧 Contact
 
 - **Email**: 
-- **Website**: [https://book-store-3f2a7.web.app/]
+- **Website**: [https://the-book-store001.vercel.app/]
 - **GitHub**: [@peanut]()
 
 ---
